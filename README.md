@@ -1,4 +1,4 @@
-# DIVERSITY INC
+# Diversity Inc
 Skills acquisition virtual institute
 
 ## Installations
