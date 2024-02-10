@@ -42,7 +42,6 @@ MVC
 ``` 
 
 ## Authors
-Desiree Robledo - [Github](https://github.com/LadyD56) / [Email](dez2056@aol.com)
-Azeez Bayo - [Github](https://github.com/AzeezBayo) / [Email](azeez.bayo@outlook.com)
- 
+Desiree Robledo - [Github](https://github.com/LadyD56) / < dez2056@aol.com />
+Azeez Bayo - [Github](https://github.com/AzeezBayo) / < azeez.bayo@outlook.com />
 
