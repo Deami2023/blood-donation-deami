@@ -5,7 +5,7 @@ Skills acquisition virtual institute
 
 * frontend setup
 ```
-npx create-react-app frontDesk
+npx create-react-app frontend
 npm install axios
 npm install reactstrap react react-dom
 npm install bootstrap
