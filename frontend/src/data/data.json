@@ -1,0 +1,163 @@
+{
+  "Header": {
+    "title": "Verificare concept",
+    "paragraph": "Verificare is an AI powered centralized digital identity management software. Enabling fast and effective communication within the country."
+  },
+  "About": {
+    "paragraph": "Verificare is an AI powered centralized digital identity management platform helping individuals access government services and businesses at fingertips.",
+    "Why": [
+      "Manage & control your data",
+      "Gain access to e-identity",
+      "Gain access to e-health" 
+    ],
+    "Why2": [
+      "Onboard users easily",
+      "Do business with ease",
+      "Access government services"
+    ]
+  },
+  "GovernmentServices": [
+    {
+      "title": "Mortgage agency",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg" 
+    },
+    {
+      "title": "Military",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "firs",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Immigration",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Pension agency",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Health care",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-dollar", 
+      "name": "Finance",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Ecommerce",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Public sector",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-heart",
+      "name": "Health care",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-university",
+      "name": "Education",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-group",
+      "name": "And so n",
+      "text": ""
+    }
+  ],
+  "Private": [
+    {
+      "title": "Finance",
+      "largeImage": "img/portfolio2/01-large.jpg",
+      "smallImage": "img/portfolio2/01-small.jpg"
+    },
+    {
+      "title": "eCommerce",
+      "largeImage": "img/portfolio2/02-large.jpg",
+      "smallImage": "img/portfolio2/02-small.jpg"
+    },
+    {
+      "title": "Hospitality",
+      "largeImage": "img/portfolio2/03-large.jpg",
+      "smallImage": "img/portfolio2/03-small.jpg"
+    },
+    {
+      "title": "Aviation",
+      "largeImage": "img/portfolio2/04-large.jpg",
+      "smallImage": "img/portfolio2/04-small.jpg"
+    },
+    {
+      "title": "Real estate",
+      "largeImage": "img/portfolio2/05-large.jpg",
+      "smallImage": "img/portfolio2/05-small.jpg"
+    },
+    {
+      "title": "Media",
+      "largeImage": "img/portfolio2/06-large.jpg",
+      "smallImage": "img/portfolio2/06-small.jpg"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/02.jpg",
+      "name": "Azeez Bayo",
+      "job": "Software engineer"
+    },
+    {
+      "img": "img/team/",
+      "name": "Desiree Robledo",
+      "job": "Compliance officer"
+    },
+    {
+      "img": "img/team/01.jpg",
+      "name": "Alx Africa",
+      "job": "Product manager"
+    }
+  ],
+  "Contact": {
+    "address": "Lagos State, Nigeria",
+    "phone": "+2348074113131",
+    "email": "azeez.bayo@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/azeezbayo",
+    "twitter": "https://twitter.com/RealAzeezBayo",
+    "whatsapp": "https://wa.me/message/2MK7SAUB7NU2O1",
+    "facebook": "fb.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-lock", 
+      "title": "Digital wallet",
+      "text": "We provide identity management service."
+    },
+    {
+      "icon": "fa fa-bank", 
+      "title": "Business verification",
+      "text": "We advice and protect individuals from fraudsters."
+    },
+    {
+      "icon": "fa fa-user",
+      "title": "Onboard user",
+      "text": "We help private companies onboard verified users with confidence."
+    },
+    {
+      "icon": "fa fa-globe",
+      "title": "Government",
+      "text": "We help individuals and groups access government services fast."
+    }
+  ]
+}
