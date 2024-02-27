@@ -1,163 +1,143 @@
 {
   "Header": {
-    "title": "Verificare concept",
-    "paragraph": "Verificare is an AI powered centralized digital identity management software. Enabling fast and effective communication within the country."
+    "title": "Diversity learnings",
+    "paragraph": "Diversity learning programs is platform that help individuals build on skills that will help them thrive."
   },
   "About": {
-    "paragraph": "Verificare is an AI powered centralized digital identity management platform helping individuals access government services and businesses at fingertips.",
+    "paragraph": "We are dedicated to equip individuals with the skills needed triumph in chosen field. Diversity learnings offers pathway to success in competitive job market.",
     "Why": [
-      "Manage & control your data",
-      "Gain access to e-identity",
-      "Gain access to e-health" 
+      "Industry relevant programs",
+      "Hands-On training",
+      "Job search workshop"
     ],
     "Why2": [
-      "Onboard users easily",
-      "Do business with ease",
-      "Access government services"
+      "Flexible class hours",
+      "Access to world class mentors",
+      "Life skills development"
     ]
   },
-  "GovernmentServices": [
+  "courses": [
     {
-      "title": "Mortgage agency",
+      "title": "Culinary",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg" 
     },
     {
-      "title": "Military",
+      "title": "Hair styling",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "firs",
+      "title": "Barbing",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Immigration",
+      "title": "Fashion designing",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Pension agency",
+      "title": "Graphics designing",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Health care",
+      "title": "Plumbing",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     }
   ],
-  "Services": [
+  "Academics": [
     {
-      "icon": "fa fa-dollar", 
-      "name": "Finance",
-      "text": ""
+      "icon": "fa fa-university", 
+      "name": "Campus",
+      "text": "Experience a vibrant and supportive environment, where you will learn and connect."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Ecommerce",
-      "text": ""
+      "icon": "fa fa-graduation-cap",
+      "name": "Admission",
+      "text": "Enroll with ease irrespect of your educational background, and kickstart your vocational journey with us."
     },
     {
-      "icon": "fa fa-globe",
-      "name": "Public sector",
-      "text": ""
-    },
-    {
-      "icon": "fa fa-heart",
-      "name": "Health care",
-      "text": ""
-    },
-    {
-      "icon": "fa fa-university",
-      "name": "Education",
-      "text": ""
-    },
-    {
-      "icon": "fa fa-group",
-      "name": "And so n",
-      "text": ""
+      "icon": "fa fa-book",
+      "name": "Departments",
+      "text": "We have variety of departments here, ranging from culinary, trades, tech etc.   "
     }
   ],
-  "Private": [
+  "Gallery": [
     {
-      "title": "Finance",
+      "title": "Learn & Connect",
       "largeImage": "img/portfolio2/01-large.jpg",
       "smallImage": "img/portfolio2/01-small.jpg"
     },
     {
-      "title": "eCommerce",
+      "title": "Workshops",
       "largeImage": "img/portfolio2/02-large.jpg",
       "smallImage": "img/portfolio2/02-small.jpg"
     },
     {
-      "title": "Hospitality",
+      "title": "Entreprenuership",
       "largeImage": "img/portfolio2/03-large.jpg",
       "smallImage": "img/portfolio2/03-small.jpg"
     },
     {
-      "title": "Aviation",
+      "title": "Graduation",
       "largeImage": "img/portfolio2/04-large.jpg",
       "smallImage": "img/portfolio2/04-small.jpg"
     },
     {
-      "title": "Real estate",
+      "title": "Financial idependence",
       "largeImage": "img/portfolio2/05-large.jpg",
       "smallImage": "img/portfolio2/05-small.jpg"
     },
     {
-      "title": "Media",
+      "title": "Happy community",
       "largeImage": "img/portfolio2/06-large.jpg",
       "smallImage": "img/portfolio2/06-small.jpg"
     }
   ],
   "Team": [
     {
+      "img": "img/team/",
+      "name": "Desiree Robledo",
+      "job": "Administator"
+    },
+    {
       "img": "img/team/02.jpg",
       "name": "Azeez Bayo",
       "job": "Software engineer"
-    },
-    {
-      "img": "img/team/",
-      "name": "Desiree Robledo",
-      "job": "Compliance officer"
-    },
-    {
-      "img": "img/team/01.jpg",
-      "name": "Alx Africa",
-      "job": "Product manager"
     }
   ],
   "Contact": {
-    "address": "Lagos State, Nigeria",
-    "phone": "+2348074113131",
-    "email": "azeez.bayo@outlook.com",
-    "linkedin": "https://www.linkedin.com/in/azeezbayo",
-    "twitter": "https://twitter.com/RealAzeezBayo",
-    "whatsapp": "https://wa.me/message/2MK7SAUB7NU2O1",
+    "address": "California, Monterey County Side, USA",
+    "phone": "+18317442591",
+    "email": "dez2056@aol.com",
+    "linkedin": "",
+    "twitter": "",
+    "whatsapp": "",
     "facebook": "fb.com"
   },
-  "Features": [
+  "Trainings": [
     {
-      "icon": "fa fa-lock", 
-      "title": "Digital wallet",
-      "text": "We provide identity management service."
+      "icon": "fa fa-briefcase", 
+      "title": "Job search",
+      "text": " Job market workshop to prepare individuals."
     },
     {
-      "icon": "fa fa-bank", 
-      "title": "Business verification",
-      "text": "We advice and protect individuals from fraudsters."
+      "icon": "fa fa-cogs", 
+      "title": "Life skills",
+      "text": "Programs are offered to build essential life skills."
     },
     {
       "icon": "fa fa-user",
-      "title": "Onboard user",
-      "text": "We help private companies onboard verified users with confidence."
+      "title": "Post employment",
+      "text": "Speedy growth in career."
     },
     {
-      "icon": "fa fa-globe",
-      "title": "Government",
-      "text": "We help individuals and groups access government services fast."
+      "icon": "fa fa-step-forward",
+      "title": "Transitional steps",
+      "text": "Smooth tansition into workforce. "
     }
   ]
 }

@@ -1,14 +1,14 @@
 import { Image } from "./image";
 import React from "react";
 
-export const Government = (props) => {
+export const Gallery = (props) => {
   return (
-    <div id="portfolio" className="text-center">
+    <div id="private" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Government services</h2>
+          <h2>Gallery</h2>
           <p>
-           We serves as a bridge between Government and her citizens enabling easy interactions. 
+           Inside Diversity learnings
           </p>
         </div>
         <div className="row">

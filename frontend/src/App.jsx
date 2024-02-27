@@ -1,13 +1,13 @@
 import React, { useState, useEffect } from "react";
 import { Navigation } from "./components/navigation";
 import { Header } from "./components/header";
-import { Features } from "./components/features";
+import { Trainings } from "./components/Trainings";
 import { About } from "./components/about";
-import { Services } from "./components/services";
+import { Academics } from "./components/Academics";
 import { Team } from "./components/Team";
 import { Contact } from "./components/contact";
-import { Private } from "./components/private";
-import { Government } from "./components/government";
+import { Gallery } from "./components/Gallery";
+import { Courses } from "./components/Courses";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import { useMediaQuery } from 'react-responsive';
@@ -61,11 +61,11 @@ const App = () => {
 
       <Navigation />
       <Header data={landingPageData.Header} />
-      <Features data={landingPageData.Features} />
+      <Trainings data={landingPageData.Trainings} />
       <About data={landingPageData.About} />
-      <Government data={landingPageData.GovernmentServices} />
-      <Services data={landingPageData.Services} />
-      <Private data={landingPageData.Private} />
+      <Courses data={landingPageData.courses} />
+      <Academics data={landingPageData.Academics} />
+      <Gallery data={landingPageData.Gallery} />
       <Team data={landingPageData.Team} />
       <Contact data={landingPageData.Contact} />
     </Styles.Wrapper>

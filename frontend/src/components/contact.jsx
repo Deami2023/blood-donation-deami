@@ -50,10 +50,10 @@ export const Contact = (props) => {
           <div className="col-md-8">
             <div className="row">
               <div className="section-title">
-                <h2>Get In Touch</h2>
-               <h3>An e-solution that would create fast and convenient communicaton within the system, also enhancing data gathering for effective Nigeria. 
-               This project is officially licensed on Cryptolens - Developer Friendly Licensing Solution. If you would like to collaborate with us as a private entity. Please feel free to reach out through any of the channel
-                  convenient for you.
+                <h2>Vision</h2>
+               <h3>Diversity Inc is driven by a vision of a world where every individuals has the opportuinity
+                to thrive and succeed, regardless of their background and circumstances. The organization is 
+                committed to creating an inclusive environment that fosters diversity and equality. 
                 </h3>
                 
               </div>
@@ -86,37 +86,15 @@ export const Contact = (props) => {
               </p>
             </div>
           </div>
-          <div className="col-md-12">
-            <div className="row">
-              <div className="social">
-                <ul>
-                  <li>
-                    <a href={props.data ? props.data.linkedin : "/"} target="__blank">
-                      <i className="fa fa-linkedin"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.twitter : "/"} target="__blank">
-                      <i className="fa fa-twitter"></i>
-                    </a>
-                  </li>
-                  <li>
-                    <a href={props.data ? props.data.whatsapp : "/"} target="__blank">
-                      <i className="fa fa-whatsapp"></i>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </div>
+         
         </div>
       </div>
       <div id="footer">
         <div className="container text-center">
           <p>
-           Copyright &copy; 2024 Verificare, All rights reserved.{" "}
-            <a href="https://hashnode.com/preview/65d0814971e6083e266d457e" rel="nofollow" target= "__blank">
-              Blog
+           Copyright &copy; 2024 Diversity Inc, Engineered by{" "}
+            <a href="https://www.linkedin.com/in/azeezbayo" rel="nofollow" target= "__blank">
+              Azeez Bayo
             </a>
           </p>
         </div>

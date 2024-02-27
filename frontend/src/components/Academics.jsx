@@ -1,13 +1,13 @@
 import React from "react";
 
-export const Services = (props) => {
+export const Academics = (props) => {
   return (
     <div id="services" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Industries</h2>
+          <h2>Academics</h2>
           <p>
-            Bringing secure and convenient e-solutions to the industry.
+            Diversity learning programe at glance
           </p>
         </div>
         <div className="row">

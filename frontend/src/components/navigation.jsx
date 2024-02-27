@@ -18,7 +18,7 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="/">
-            Verificare
+            Diversity learnings
           </a>{" "}
         </div>
 
@@ -29,7 +29,7 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#features" className="page-scroll">
-                Services
+              Trainings
               </a>
             </li>
             <li>
@@ -39,22 +39,22 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-              Government services
+              Courses
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                    Industries   
+                    Academics   
               </a>
             </li>
             <li>
               <a href="#private" className="page-scroll">
-                Private services
+                Gallery
               </a>
             </li>
             <li>
               <a href="#team" className="page-scroll">
-                Founder
+                Founders
               </a>
             </li>
             <li>

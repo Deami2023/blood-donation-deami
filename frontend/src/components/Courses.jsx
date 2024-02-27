@@ -1,14 +1,14 @@
 import { Image } from "./image";
 import React from "react";
 
-export const Private = (props) => {
+export const Courses = (props) => {
   return (
-    <div id="private" className="text-center">
+    <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Private services</h2>
+          <h2>Courses</h2>
           <p>
-            We collaborate with private entities, helping individuals connect to the right and best deals.
+          We provides industry demanding skills. 
           </p>
         </div>
         <div className="row">

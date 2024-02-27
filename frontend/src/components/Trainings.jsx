@@ -1,11 +1,11 @@
 import React from "react";
 
-export const Features = (props) => {
+export const Trainings = (props) => {
   return (
     <div id="features" className="text-center">
       <div className="container">
         <div className="col-md-10 col-md-offset-1 section-title">
-          <h2>Core services</h2>
+          <h2>Trainings</h2>
         </div>
         <div className="row">
           {props.data
