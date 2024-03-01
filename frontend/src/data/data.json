@@ -1,18 +1,18 @@
 {
   "Header": {
     "title": "Diversity learnings",
-    "paragraph": "Diversity learning programs is platform that help individuals build on skills that will help them thrive."
+    "paragraph": "Diversity learning program is a platform that help individuals build on skills that will help them thrive."
   },
   "About": {
-    "paragraph": "We are dedicated to equip individuals with the skills needed triumph in chosen field. Diversity learnings offers pathway to success in competitive job market.",
+    "paragraph": "Diversity learning program is a dynamic organization that provide individuals with the skill set needed to thrive, offering pathway to success in competitive job market.",
     "Why": [
-      "Industry relevant programs",
+      "Industry relevant skills",
       "Hands-On training",
       "Job search workshop"
     ],
     "Why2": [
       "Flexible class hours",
-      "Access to world class mentors",
+      "Chat with world class mentors",
       "Life skills development"
     ]
   },
@@ -122,12 +122,12 @@
     {
       "icon": "fa fa-briefcase", 
       "title": "Job search",
-      "text": " Job market workshop to prepare individuals."
+      "text": " Job market readiness workshop to prepare individuals."
     },
     {
       "icon": "fa fa-cogs", 
       "title": "Life skills",
-      "text": "Programs are offered to build essential life skills."
+      "text": "Programs are designed to build direct employment."
     },
     {
       "icon": "fa fa-user",

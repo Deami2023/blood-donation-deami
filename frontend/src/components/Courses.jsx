@@ -8,7 +8,7 @@ export const Courses = (props) => {
         <div className="section-title">
           <h2>Courses</h2>
           <p>
-          We provides industry demanding skills. 
+          We provides industry demanding skill trainings. 
           </p>
         </div>
         <div className="row">
